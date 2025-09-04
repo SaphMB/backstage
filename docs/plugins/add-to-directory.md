@@ -31,8 +31,8 @@ addedDate: # The date plugin added to directory E.g. '2022-10-01' quotes are req
 Here are a few tips to help speed up the review process when you submit your plugin:
 
 - For any icon that you use make sure you have the proper rights to use it.
-- Make sure that your package had been published on the NPM registry and that it's public.
+- Make sure that your package has been published on the NPM registry and that it's public.
 - Make sure your package on NPM has a link back to your code repo, this helps provide confidence that it's the right package.
 - Where possible, please use an [NPM scope](https://docs.npmjs.com/about-scopes) that matches either your Organization name or user name, this provides trust in the plugin
-- If your plugin has both a frontend and backend link the documentation to the frontend package but make sure it mentioned needing to install the backend package.
-- Where possible include a screenshot of the features in you plugin documentation, it really does help when deciding to use a plugin.
+- If your plugin has both a frontend and backend, link the documentation to the frontend package but make sure it mentions needing to install the backend package.
+- Where possible include a screenshot of the features in your plugin's documentation, it really does help when deciding to use a plugin.
