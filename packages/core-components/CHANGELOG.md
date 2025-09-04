@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.17.6-next.1
+
+### Patch Changes
+
+- ae7d426: update about card links style for pretty display with other language
+
 ## 0.17.6-next.0
 
 ### Patch Changes

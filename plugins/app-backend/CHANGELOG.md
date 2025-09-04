@@ -1,5 +1,13 @@
 # @backstage/plugin-app-backend
 
+## 0.5.6-next.1
+
+### Patch Changes
+
+- afd368e: Internal update to not expose the old `createRouter`.
+- Updated dependencies
+  - @backstage/plugin-auth-node@0.6.7-next.1
+
 ## 0.5.6-next.0
 
 ### Patch Changes
